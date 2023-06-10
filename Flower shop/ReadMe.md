@@ -7,8 +7,6 @@ Lilies Shop
 
 ## Design
 The website designed to be responsive according to the device(PC,Ipad or smartphones)
-these are screenshots of the website on computer and smartphone.
-![](assets/images/computer%20browser.png)![](assets/images/smartphone.png)
 
 ## Web pages
 ### index(Home) page
@@ -18,17 +16,20 @@ This page contains login form for the members that signed up in the website and 
 ## Signup page
 The signup page is basic signup form for none member to complete when they want to register.
 
-
-
 #Testing
 ### description of test plan
-### Test on different web browsers
+### Test on different devises
+* Laptop
+![](assets/images/computer%20browser.png)
+* smartphone
+![](assets/images/smartphone.png)
+### test on diffrent browsers
 * Safari
-*  Chrome
-*  Edge
-###Lighthouse
+![](assets/images/onsafari.png)
+*  Chrome (I didn't upload screenshot for chrom as the previous one for laptop was taken from chrome browser).
+
 ### https://validator.w3.org
-### jsLint.org
+
 
 ## Test table
 <!-- Tables -->
