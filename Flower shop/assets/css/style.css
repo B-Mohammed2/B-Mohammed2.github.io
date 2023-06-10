@@ -317,7 +317,7 @@ color:rgba(27, 75, 0, 0.8);
   display:inline-block;
 }
  
-  @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     .drop-search{
       border-radius: 50%;
       border:rgba(27, 75, 0, 0.6);
@@ -326,9 +326,11 @@ color:rgba(27, 75, 0, 0.8);
       max-width: 51px;
       min-width: 25px;
       height: 6vw;
+      position: absolute;
+        top:-10px;
+        left:-10px;
      
     }
+
+    
   }
-.lable {
-  
-}
