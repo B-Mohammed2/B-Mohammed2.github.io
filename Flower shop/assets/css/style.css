@@ -34,9 +34,8 @@ body {
 
 }
 .h-main{
-  font-family: Brush Script MT;
+  font-family: "Brush Script MT";
   text-align: center;
-  
   color: rgb(53, 5, 99);
   background-color:rgb(255, 230,230);
   text-size-adjust: auto;
@@ -170,8 +169,6 @@ color:rgba(27, 75, 0, 0.8);
   text-align: left;
   
 }
-
-
 .div-con {
   
   background-size: cover;
@@ -182,8 +179,6 @@ color:rgba(27, 75, 0, 0.8);
   border-radius: 1cm;
 
 }
-
-
 
 .search-bar {
   width:100%;
@@ -216,7 +211,7 @@ color:rgba(27, 75, 0, 0.8);
  padding: 5px 20px;
  color: grey;
 }
-
+/* this is to design container of forms */
 .login-con {
   margin:0;
   padding: 10%;
@@ -229,8 +224,6 @@ color:rgba(27, 75, 0, 0.8);
   width:100%;
   height:100%;
   padding:20px;
-  
-
 }
 .login-con form h1 {
   text-align: center;
@@ -243,14 +236,13 @@ color:rgba(27, 75, 0, 0.8);
 .login-con form .form-ctrl {
   width: 100%;
   height:40px;
-  background-color: smokey;
+  background-color:rgba(245, 245, 245, 0.816);
   border-radius: 4px;
   border: none;
   margin: 10px 0 20px;
   box-shadow: 0 2px  grey;
 }
 .login-con form button {
-  
   width: 120px;
   height: 28px;
   border: none;
@@ -264,7 +256,7 @@ color:rgba(27, 75, 0, 0.8);
 .login-con form button:hover{
   opacity: 0.8;
 }
-
+/* this is for searsh icon on the navbar */
 .drop-search img {
   width: 2vw;
   max-width: 5vw;

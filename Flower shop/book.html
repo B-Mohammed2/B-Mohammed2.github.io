@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="assets/css/style.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
     <title>sing up</title>
     
   </head>
@@ -88,52 +87,48 @@
     </div> 
     <br>
     <br>
-    <div>
-      <form method="POST" action="https://formdump.codeinstitute.net/" style="border:1px solid #ccc">
+    <div class="container mt-5">
+      <form method="POST" action="https://formdump.codeinstitute.net/" >
         <div class="container">
-          <h1>Sign Up</h1>
-          <p>Please fill in this form to create an account.</p>
-          <br>
-          <div class="mb-3" >
-            <table class="table table-borderless">
-              <tr>
-                <td align="left">
-                  <label for="fname" class="form-label lable"><b>First name:</b></label>
-                </td>
-                <td align="left"><input type="text" id="fname" name="fname" class="form-control" placeholder="Enter First Name" required></td>
-              </tr>
-              <tr>
-                <td align="left"><label for="lname" class="label"><b>Last name:</b></label></td>
-                <td align="left"> <input type="text" id="lname" name="lname" class="form-control" placeholder="Enter Last Name" required></td>
-              </tr>
-              <tr>
-                <td align="left"><label for="email" class="label"><b>Email</b></label></td>
-                <td align="left"><input type="email" id="email" class="form-control" placeholder="Enter email"  required > </td>
-              </tr>
-              <tr>
-                <td align="left"><label for="psw" class="label"><b>Password</b></label></td>
-                <td align="left"><input type="password" id="psw" class="form-control" placeholder="Enter Password"></td>
-              </tr>
-              <tr>
-                <td align="left"> <label for="psw-repeat"><b>Repeat Password</b></label></td>
-                <td align="left"><input type="password" placeholder="Repeat Password" class="form-control" name="psw-repeat" required></td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <label>
-                    <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
-                  </label>
-                  <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
-              </td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <div class="clearfix">
-                    <button type="submit" class="btn btn-success"><b>Sign Up</b></button>
-                  </div><br>
-                </td>
-              </tr>
-            </table>
+          <div class="container login-con" >
+            <h3>Book for personal wedding consultation </h3>
+          <small class="text-muted" style="font-size:2vw;">Please fill in this form to be contacted as soon as possible.</small>
+          <br><br>
+            <div class="form-floating mb-3">
+                <label for="firstName" class="form-label">First Name</label>
+                <input type="text" class="form-control" id="firstName" required> 
+            </div>
+             <div class="form-floating mb-3">
+                 <label for="lastName" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="lastName" required>
+              </div>
+
+              <div class="form-floating mb-3">
+                <label for="email" class="form-label">Email address</label>
+               <input type="email" class="form-control" id="email" required>
+             </div>
+             <div class="form-floating mb-3">
+                 <label for="phone" class="form-label">Phone Number</label>
+                 <input type="tel" class="form-control" id="phone" placeholder="+44 12 34-56-78-90" required>
+             </div>
+             <div>
+                 <label for="comments" class="form-label">Please write in brave about your requirments.</label>
+                 <br>
+                 <textarea class="form-control form-floating mb-3" name="" id="comments" cols="20" rows="3"></textarea>
+             </div>
+             <div >
+                <label for="dataList" class="form-label">Preferable contact method</label>
+                <input class="form-control" list="datalistOptions" id="dataList" placeholder="Type to search...">
+                <datalist id="datalistOptions">
+                <option value="Email">
+                <option value="Phone call">
+                </datalist>
+            </div>
+
+
+             <div class="col-md-12">
+                <button type="submit" class="btn btn-success">Submit</button>
+             </div>
         </div>
       </form><br>
     </div><br>
