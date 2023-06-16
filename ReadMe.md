@@ -28,12 +28,17 @@ The booking page is to send your enquiry and be contacted back with the preferab
 ### description of test plan
 ### Test on different devises
 * Laptop
-![](assets/images/screenshots/computer%20browser.png)
+
 * smartphone
-![](assets/images/screenshots/smartphone.png)
+
+
+* Tablet
+
+
+
 ### Test on diffrent browsers
 * Safari
-![](assets/images/screenshots/onsafari.png)
+
 
 *  Chrome (I didn't upload screenshot for chrom as the previous one for laptop was taken from chrome browser).
 
