@@ -8,10 +8,10 @@ Lilies Shop
 ## Design
 The website designed to be responsive according to the device(PC,Ipad or smartphones)
 
-## Wirefram
-![](assets/images/screenshots/wireframe%20Home1.png)
-![](assets/images/screenshots/wireframehome2.png)
-![](assets/images/screenshots/wireframe-singup.png)
+## Wireframe
+![](assets/images/screenshots/wireframe-home1.png)
+![](assets/images/screenshots/wireframe-home2.png)
+![](assets/images/screenshots/wireframe-signup.png)
 ## Web pages
 ### index(Home) page
 The home page is the landing page that introduces the website and it's services to customers.
