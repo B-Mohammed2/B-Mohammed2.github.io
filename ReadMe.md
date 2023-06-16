@@ -94,7 +94,17 @@ to creat the logo of my page it was usefull and searved the purpose.
 https://www.pinterest.es/pin/peach-english-garden-roses-peach-ranunculus-white-lisianthus-white-gypsophila-baby-blue-eucaly--540432024020357846/
 
 
+## Deployment
 
+I deployed the website on GitHub platform after making a repository and uploading all the files to it.
+Github has special requirement with naming the repository for deployment as it needs to be written in this form
+ account-holders-name.github.io 
+It is important to mention that you can not deploy more than one repository in the same time on GitHub. If you already have a deployed repository you need to stop it by changing the name and deploy the required repository the same way mentioned in the top
+There are other platform for deployment such as (Go dady)
+Another important step is the index.html file should be in the root folder to be successfully deployed.
 
+It is important to mention that you can not deploy more than one repository in the same time on GitHub. If you already have a deployed repository you need to stop it by changing the name and deploy the required repository the same way mentioned in the top
+There are other platform 
+https://seodesignchicago.com/web-design-blog/the-5-steps-of-website-deployment/
 
 
