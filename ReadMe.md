@@ -8,6 +8,10 @@ Lilies Shop
 ## Design
 The website designed to be responsive according to the device(PC,Ipad or smartphones)
 
+## Wirefram
+![](assets/images/screenshots/wireframe%20Home1.png)
+![](assets/images/screenshots/wireframehome2.png)
+![](assets/images/screenshots/wireframe-singup.png)
 ## Web pages
 ### index(Home) page
 The home page is the landing page that introduces the website and it's services to customers.
@@ -24,12 +28,13 @@ The booking page is to send your enquiry and be contacted back with the preferab
 ### description of test plan
 ### Test on different devises
 * Laptop
-![](assets/images/computer%20browser.png)
+![](assets/images/screenshots/computer%20browser.png)
 * smartphone
-![](assets/images/smartphone.png)
+![](assets/images/screenshots/smartphone.png)
 ### Test on diffrent browsers
 * Safari
-![](assets/images/onsafari.png)
+![](assets/images/screenshots/onsafari.png)
+
 *  Chrome (I didn't upload screenshot for chrom as the previous one for laptop was taken from chrome browser).
 
 ## Language validation
@@ -38,7 +43,7 @@ The booking page is to send your enquiry and be contacted back with the preferab
 
  CSS
 https://jigsaw.w3.org/css-validator/validator
-![](assets/images/css-validation.png)
+![](assets/images/screenshots/css-validation.png)
 
 ## Test web page links
 <!-- Tables -->
@@ -70,7 +75,7 @@ This website was a valuable library for me and great support for writing my code
 There are many websites for logo.However I used this one https://www.adobe.com/express/create/logo
 to creat the logo of my page it was usefull and searved the purpose.
 
-# Screenshots
+# Screenshot
 
 
 
