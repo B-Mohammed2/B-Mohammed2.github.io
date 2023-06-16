@@ -1,6 +1,13 @@
-<!-- Introduction -->
+<!-- Introduction the purpose and the value to users and dyployment -->
+
 # Introduction 
 This is a simple business website for flower shop, It alows you to search for the shops servises and order requirment via any of the contact detail provided.
+<!-- users stories -->
+1- I would like to request advice.
+2- I would like to get contact detail.
+3- I would like to follow the shop in different social media websites.
+4- I would like to register in the website and get promotional emails.
+
 
 ## Project Title
 Lilies Shop
