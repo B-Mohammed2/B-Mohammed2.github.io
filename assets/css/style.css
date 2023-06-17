@@ -179,38 +179,6 @@ color:rgba(27, 75, 0, 0.8);
   border-radius: 1cm;
 
 }
-
-.search-bar {
-  width:100%;
-  max-width: 600px;
-  background:rgba(27, 75, 0, 0.2);
-  display: flex;
- /* align-items: center;*/
-  border-radius: 40px;
-  border-color: #796c91;
- 
-}
-.search-bar button img {
-  width: 20px;
-
-}
-.search-bar button{
-  border: 0;
-  border-radius: 50%;
-  width: 50px;
-  height: 40px;
-  background:rgb(255, 230,230,0.8);
-  cursor: pointer;
-}
-.search-bar input {
- background: transparent;
- flex:1;
- border: 0;
- outline: none;
- font-size: 16px;
- padding: 5px 20px;
- color: grey;
-}
 /* this is to design container of forms */
 .login-con {
   margin:0;
@@ -256,28 +224,6 @@ color:rgba(27, 75, 0, 0.8);
 .login-con form button:hover{
   opacity: 0.8;
 }
-/* this is for searsh icon on the navbar */
-.drop-search img {
-  width: 2vw;
-  max-width: 5vw;
-  min-width: 3vw;
-  align-items: center;
-  justify-content: center;
-  
-}
-.cart-icon {
-  width: 6vw ;
-  max-width: 40px; 
-  min-width: 25px;
-  padding: 2px;
-  border:none;
-  outline: none;
-  border-radius: 50%;
-  background-color: aliceblue;
-  position: relative;
-  display:inline-block;
-  
-}
 
 .button {
   background: rgba(27, 75, 0, 0.2);
@@ -296,33 +242,3 @@ color:rgba(27, 75, 0, 0.8);
   font-weight: bold;
   color: bisque;
 }
-/* here to design the drop down search bar */
-.drop-search {
-  border-radius: 50%;
-  border:rgba(27, 75, 0, 0.6);
-  background:rgb(255, 230,230) ;
-  width: 50px;
-  height: 45px;
-  position: absolute;
-  top: -20px;
-  left: -50px;
-  display:inline-block;
-}
- 
-@media only screen and (max-width: 600px) {
-    .drop-search{
-      border-radius: 50%;
-      border:rgba(27, 75, 0, 0.6);
-      background:rgb(255, 230,230) ;
-      width: 7vw;
-      max-width: 51px;
-      min-width: 25px;
-      height: 6vw;
-      position: absolute;
-        top:-10px;
-        left:-10px;
-     
-    }
-
-    
-  }

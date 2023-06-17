@@ -6,15 +6,22 @@ This is a simple business website for flower shop, It alows you to search for th
 ## User stories
 ### First Time Visitor Goals
 
-I want to be able to navigate to the different sections of the website to gain a basic knowledge of what Lilie shop offers. easily understand the main purpose of the site and learn more about the different events and offers that the business provides.
-As a first time visitor I want them to make contact to get advice and help with planing and book for my event. I would like to follow the bussiness on the defrent social media 
-I would like to be able to find contact detail to contact them directly
+1. I want to be able to navigate to the different sections of the website to gain a basic knowledge of what Lilie shop offers. 
+2. As a first time visitor, I want to easily understand the main purpose of the site and learn more about the different events and offers that the business provides.
+3. As a first time visitor, I want them to make contact to get advice and help with planing and book for my event. I would like to follow the bussiness on the defferent social media 
+I would like to be able to find contact detail to contact them directly.
+4. As a first time visitor, I want customer be able to create account and recive special offers for reguler customers.
 
+### Returning Visitor Goals
 
-2- I would like to get contact detail.
-3- I would like to follow the shop in different social media websites.
-4- I would like to register in the website and get promotional emails.
+1. As a Returning Visitor, I want customers to use the booking function on the website to book their own service.
+2. As a Returning Visitor, I want customers to learn  about the new offers and services the bussiness provides.
+3. As a Returning Visitor, I want customers to login to created account.
+ 
+### Frequent User Goals
 
+1. As a Frequent User, I want customers to book consultation for events through the contact form or a phone. 
+2. As a Frequent User, I want customers to make contact with us through the website about any issues or complain so we can help.
 
 ## Project Title
 Lilies Shop
