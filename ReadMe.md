@@ -48,6 +48,16 @@ The booking page is to send your enquiry and be contacted back with the preferab
 
 ### description of test plan
 ### Test on different devises
+#### vertual device tests
+websites used to test pages and responsiveness.
+1. https://ui.dev/amiresponsive?url=http%3A%2F%2Fblog.codecamp.jp&__hstc=150021993.fdd75ffbe5522a13e5a117f14d997ae5.1473078813729.1473078813729.1473078813730.2&__hssc=150021993.1.1473078813730&__hsfp=3801984517.
+![](assets/images/screenshots/test/ui.dev.png)
+
+2. http://responsivetesttool.com
+![](assets/images/screenshots/test/desktop-test.png)
+![](assets/images/screenshots/test/ipad-test.png)
+
+#### Manual devise tests
 * Laptop
 
 * smartphone
