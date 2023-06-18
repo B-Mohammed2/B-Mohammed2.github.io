@@ -93,9 +93,10 @@ websites used to test pages and responsiveness.
 
 
 * Tablet
-
-
-
+![](assets/images/screenshots/test/ipad-home.PNG)
+![](assets/images/screenshots/test/ipad-login.PNG)
+![](assets/images/screenshots/test/ipad-reg.PNG)
+![](assets/images/screenshots/test/ipad-booking.PNG)
 ### Test on diffrent browsers
 * Safari
 
