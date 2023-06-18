@@ -52,13 +52,26 @@ The website designed to be responsive according to the device(PC,Ipad or smartph
 ## Web pages
 ### index(Home) page
 The home page is the landing page that introduces the website and it's services to customers.
-## Login page
+### Login page
 This page contains login form for the members that signed up in the website and allows them to login to their account.
-## Signup page
+### Signup page
 The signup page is basic signup form for none member to complete when they want to register.
-## book page
+### book page
 The booking page is to send your enquiry and be contacted back with the preferable methode.
 
+## Lighthouse Check
+
+#### Desktop
+![](assets/images/screenshots/lighthouse/desk-home.png)
+![](assets/images/screenshots/lighthouse/desk-login.png)
+![](assets/images/screenshots/lighthouse/desk-signup.png)
+![](assets/images/screenshots/lighthouse/desk-booking.png)
+
+#### Mobile
+![](assets/images/screenshots/lighthouse/mobile-home.png)
+![](assets/images/screenshots/lighthouse/mobile-login.png)
+![](assets/images/screenshots/lighthouse/mobile-signup.png)
+![](assets/images/screenshots/lighthouse/mobile-booking.png)
 
 # Testing
 
