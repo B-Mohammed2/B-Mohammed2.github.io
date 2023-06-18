@@ -91,12 +91,8 @@ websites used to test pages and responsiveness.
 
 * smartphone
 
-
 * Tablet
-![](assets/images/screenshots/test/ipad-home.PNG)
-![](assets/images/screenshots/test/ipad-login.PNG)
-![](assets/images/screenshots/test/ipad-reg.PNG)
-![](assets/images/screenshots/test/ipad-booking.PNG)
+![](assets/images/screenshots/test/Ipad.png)
 ### Test on diffrent browsers
 * Safari
 
@@ -156,6 +152,7 @@ to creat the logo of my page it was usefull and searved the purpose.
 
 ## Image source
 https://www.pinterest.es/pin/peach-english-garden-roses-peach-ranunculus-white-lisianthus-white-gypsophila-baby-blue-eucaly--540432024020357846/
+
 
 
 ## Deployment
