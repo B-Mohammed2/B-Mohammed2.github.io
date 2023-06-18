@@ -92,14 +92,16 @@ websites used to test pages and responsiveness.
 ## Language validation
  Html
  https://validator.w3.org
+
  ![](assets/images/screenshots/validator/index-html-validation.png)
  ![](assets/images/screenshots/validator/login-html-validator.png)
  ![](assets/images/screenshots/validator/signup.png)
  ![](assets/images/screenshots/validator/book-html-validator.png)
- 
+
  CSS
  https://jigsaw.w3.org/css-validator/validator
- ![](assets/images/screenshots/css-validation.png)
+![](assets/images/screenshots/validator/css-validation.png)
+ 
 
 ## Test web page links
 <!-- Tables -->
