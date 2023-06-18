@@ -103,6 +103,10 @@ websites used to test pages and responsiveness.
 ![](assets/images/screenshots/validator/css-validation.png)
  
 
+## Lighthouse check
+
+
+
 ## Test web page links
 <!-- Tables -->
 | Test No   | Purpose| Test and Or data|Expected Outcome|Actual Outcome|Comments|
