@@ -1,5 +1,3 @@
-
-
 body {
   width: 80%;
  /* min-width: 450px;*/
@@ -8,11 +6,14 @@ body {
   margin: 0 10% 0 10%;
   text-align: center;
   text-size-adjust: auto;
-  
-
 }
-
-
+/* logo design */
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  align-items: center;
+}
 .img-logo {
   max-width: 100%;
   height: auto;
@@ -22,7 +23,7 @@ body {
   position:relative;
 
 }
-
+/* banner */
 .slide-img {
   border-width:medium;
   text-align: center;
@@ -31,51 +32,40 @@ body {
   border-width: 4px;
   border-color: rgba(227,81,111,0.2) ;
   object-fit:contain
-
 }
+/* design for the heading part of "nature is beauty" */
 .h-main{
   font-family: "Brush Script MT";
   text-align: center;
   color: rgb(53, 5, 99);
   background-color:rgb(255, 230,230);
   text-size-adjust: auto;
-  
 }
 h2 {
   text-align: center;
-  
-  
 }
-
-
-
 .p1 {
   text-align: center;
   font-size: 3vw;
   background-blend-mode:multiply;
   background-color: rgba(250, 235, 215, 0.472);
 }
-
-
 .img-container {
-
   position: absolute;
 }
-
+/* this is for all images */
 img {
   width: 100%;
   height: auto;
   text-align: center;
-  
 }
-
+/* this is for all div's */
 div {
   text-align: center;
   margin: auto;
   position: relative;
 }
 .style-wr {
-  
   background-color:rgb(255, 230,230,0.8) ;
   padding-bottom:inherit;
   padding-right: inherit;
@@ -86,7 +76,6 @@ div {
 }
 .bg {
   background-color:rgb(255, 230,230,0.3) ;
-  
 }
 .column {
   float: left;
@@ -98,22 +87,12 @@ div {
   content: "";
   clear: both;
   display: table-row;
-
 }
-
-.logo {
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;
-  align-items: center;
-}
-
 .ul {
   list-style-type: none;
   background-color: white;
   position: relative;
   display: inline-flex;
-
 }
 
 li a {
@@ -131,53 +110,46 @@ nav {
   background-color: rgba(255, 230, 230, 0.2);
   width:100%;
   position:relative;
-
-
 }
-
-
 footer {
  align-items: center;
  position: inherit;
  width: 100%;
 }
+/* social media icons */
 .icon {
   width: 3vw;
   min-width: 20px;
-;
-}
-.wrapper {
-  width: 100%;
-  height: 220px;
-  background-color:rgba(255, 230,230,1);
-
 }
 .icon:hover {
   opacity: 0.8;
   width:4vw;
 }
+.wrapper {
+  width: 100%;
+  height: 220px;
+  background-color:rgba(255, 230,230,1);
+}
+/* contact us links */
 .uline{
   text-decoration: none;
 color:rgba(27, 75, 0, 0.8);
-
 }
 .uline:hover{
   color:black;
 }
+
 #f-logo{
   position: relative;
   text-align: left;
-  
 }
 .div-con {
-  
   background-size: cover;
   position: absolute;
   right:40px;
   top: 30px;
   background-color: white;
   border-radius: 1cm;
-
 }
 /* this is to design container of forms */
 .login-con {
@@ -224,7 +196,6 @@ color:rgba(27, 75, 0, 0.8);
 .login-con form button:hover{
   opacity: 0.8;
 }
-
 .button {
   background: rgba(27, 75, 0, 0.2);
   border: 1px solid;

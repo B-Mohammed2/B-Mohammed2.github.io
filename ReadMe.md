@@ -83,10 +83,10 @@ websites used to test pages and responsiveness.
 ![](assets/images/screenshots/test/ui.dev.png)
 
 2. http://responsivetesttool.com
-![](assets/images/screenshots/test/desktop-test.png)
+![](assets/images/screenshots/test/desk-ve.png)
 ![](assets/images/screenshots/test/ipad-test.png)
 
-#### Manual devise tests
+#### Actual devise tests
 * Laptop
 
 * smartphone
@@ -147,19 +147,17 @@ This website was a valuable library for me and great support for writing my code
 There are many websites for logo.However I used this one https://www.adobe.com/express/create/logo
 to creat the logo of my page it was usefull and searved the purpose.
 
-# Screenshot
-
 
 ## Image source
 I have used the images from those rescources to serve my need during the project.
-https://www.pinterest.es/pin/peach-english-garden-roses-peach-ranunculus-white-lisianthus-white-gypsophila-baby-blue-eucaly--540432024020357846/
-https://weddings.bouqs.com/collections/dried/products/lace-ceremony-piece
-https://www.cultfurniture.com/accessories-c13/wildflower-bouquet-hand-tied-p41158
-https://unsplash.com/photos/UDXB7_WLDjY
-https://fleursamanda.co.uk/product/valentines-day-red-roses/
+1. https://www.pinterest.es/pin/peach-english-garden-roses-peach-ranunculus-white-lisianthus-white-gypsophila-baby-blue-eucaly--540432024020357846/
+2. https://weddings.bouqs.com/collections/dried/products/lace-ceremony-piece
+3. https://www.cultfurniture.com/accessories-c13/wildflower-bouquet-hand-tied-p41158
+4. https://unsplash.com/photos/UDXB7_WLDjY
+5. https://fleursamanda.co.uk/product/valentines-day-red-roses/
 Banners
-https://www.descansogardens.org/wp-content/uploads/2016/07/Cherry-blossom-banner-1400x400.jpg
-https://www.mub.eps.manchester.ac.uk/science-engineering/wp-content/uploads/sites/59/2021/07/Summer-Science-1400x400.jpg
+6. https://www.descansogardens.org/wp-content/uploads/2016/07/Cherry-blossom-banner-1400x400.jpg
+7. https://www.mub.eps.manchester.ac.uk/science-engineering/wp-content/uploads/sites/59/2021/07/Summer-Science-1400x400.jpg
 
 
 
@@ -172,8 +170,17 @@ It is important to mention that you can not deploy more than one repository in t
 There are other platform for deployment such as (Go dady)
 Another important step is the index.html file should be in the root folder to be successfully deployed.
 
-It is important to mention that you can not deploy more than one repository in the same time on GitHub. If you already have a deployed repository you need to stop it by changing the name and deploy the required repository the same way mentioned in the top
-There are other platform 
+It is important to mention that you can not deploy more than one repository in the same time on GitHub. If you already have a deployed repository you need to stop it by changing the name and deploy the required repository the same way mentioned in the top.
+
+## There are other platform 
 https://seodesignchicago.com/web-design-blog/the-5-steps-of-website-deployment/
+
+## Link to the repository
+https://github.com/B-Mohammed2/B-Mohammed2.github.io
+
+## Live link to the project
+https://b-mohammed2.github.io/
+
+
 
 
