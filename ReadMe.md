@@ -30,9 +30,25 @@ Lilies Shop
 The website designed to be responsive according to the device(PC,Ipad or smartphones)
 
 ## Wireframe
-![](assets/images/screenshots/wireframe-home1.png)
-![](assets/images/screenshots/wireframe-home2.png)
-![](assets/images/screenshots/wireframe-signup.png)
+#### Desktop
+![](assets/images/screenshots/wireframe/wireframe-home1.png)
+![](assets/images/screenshots/wireframe/wireframe-home2.png)
+![](assets/images/screenshots/wireframe/wireframe-login.png)
+![](assets/images/screenshots/wireframe/wireframe-signup.png)
+![](assets/images/screenshots/wireframe/booking-web.png)
+
+#### Ipad
+![](assets/images/screenshots/wireframe/home-ipad.png)
+![](assets/images/screenshots/wireframe/login-ipad.png)
+![](assets/images/screenshots/wireframe/register-ipad.png)
+![](assets/images/screenshots/wireframe/booking-ipad.png)
+
+#### Smartphone
+![](assets/images/screenshots/wireframe/smartphone-home.png)
+![](assets/images/screenshots/wireframe/login-phone.png)
+![](assets/images/screenshots/wireframe/signup-phone.png)
+![](assets/images/screenshots/wireframe/booking-phone.png)
+
 ## Web pages
 ### index(Home) page
 The home page is the landing page that introduces the website and it's services to customers.
