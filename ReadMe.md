@@ -11,18 +11,22 @@ This is a simple business website for flower shop, It alows you to search for th
 3. As a first time visitor, I want them to make contact to get advice and help with planing and book for my event. I would like to follow the bussiness on the defferent social media 
 I would like to be able to find contact detail to contact them directly.
 4. As a first time visitor, I want customer be able to create account and recive special offers for reguler customers and save thier details for saving time.
+![](assets/images/screenshots/UE/1-a.png)
+![](assets/images/screenshots/UE/1-b.png)
 
 ### Returning Visitor Goals
 
 1. As a Returning Visitor, I want customers to use the booking function on the website to book for thier requirment.
 2. As a Returning Visitor, I want customers to learn  about the new offers and services the bussiness provides.
 3. As a Returning Visitor, I want customers to login to their created account .
- 
+![](assets/images/screenshots/UE/2.a.png)
+![](assets/images/screenshots/UE/2.b.png)
+
 ### Frequent User Goals
 
 1. As a Frequent User, I want customers to book consultation for events through the contact form or a phone. 
 2. As a Frequent User, I want customers to make contact with us through the website about any issues or complain so we can help.
-
+![](assets/images/screenshots/UE/3.a.png)![](assets/images/screenshots/UE/3.b.png)
 ## Project Title
 Lilies Shop
 
@@ -59,7 +63,7 @@ The signup page is basic signup form for none member to complete when they want 
 ### book page
 The booking page is to send your enquiry and be contacted back with the preferable methode.
 
-## Lighthouse Check
+## Lighthouse Report
 
 #### Desktop
 ![](assets/images/screenshots/lighthouse/desk-home.png)
@@ -92,10 +96,11 @@ websites used to test pages and responsiveness.
 * Tablet
 ![](assets/images/screenshots/test/Ipad.png)
 ### Test on diffrent browsers
+The following web browsers were used to test the display of the website including the functionality of the forms.
 * Safari
-
-
-*  Chrome (I didn't upload screenshot for chrom as the previous one for laptop was taken from chrome browser).
+* Chrome 
+* Edge
+* Opera
 
 ## Language validation
  Html
