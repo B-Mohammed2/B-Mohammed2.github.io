@@ -10,13 +10,13 @@ This is a simple business website for flower shop, It alows you to search for th
 2. As a first time visitor, I want to easily understand the main purpose of the site and learn more about the different events and offers that the business provides.
 3. As a first time visitor, I want them to make contact to get advice and help with planing and book for my event. I would like to follow the bussiness on the defferent social media 
 I would like to be able to find contact detail to contact them directly.
-4. As a first time visitor, I want customer be able to create account and recive special offers for reguler customers.
+4. As a first time visitor, I want customer be able to create account and recive special offers for reguler customers and save thier details for saving time.
 
 ### Returning Visitor Goals
 
-1. As a Returning Visitor, I want customers to use the booking function on the website to book their own service.
+1. As a Returning Visitor, I want customers to use the booking function on the website to book for thier requirment.
 2. As a Returning Visitor, I want customers to learn  about the new offers and services the bussiness provides.
-3. As a Returning Visitor, I want customers to login to created account.
+3. As a Returning Visitor, I want customers to login to their created account .
  
 ### Frequent User Goals
 
@@ -88,9 +88,7 @@ websites used to test pages and responsiveness.
 
 #### Actual devise tests
 * Laptop
-
-* smartphone
-
+![](assets/images/screenshots/%20finishd%20web/desk.web.jpg)
 * Tablet
 ![](assets/images/screenshots/test/Ipad.png)
 ### Test on diffrent browsers
@@ -135,7 +133,7 @@ websites used to test pages and responsiveness.
 | 3        |Display test for all pages on tablet|All web pages should display with no distortion|  All pages displayed correctly | N/A   |
 
 # Bugs and problems encountered
-My most chalenging task was the search bar button as it was hard to fix it as drop down searchbar. I couldn't find any sorce to guid me during the prosess only some youtibe video to display it as a circle button.
+I had truble with finding images for the 
 
 
 # Code attribution
@@ -144,7 +142,7 @@ This website played a big roll in designing and creating my pages such as naviga
 ## W3school
 This website was a valuable library for me and great support for writing my codes.
 ## Logo maker
-There are many websites for logo.However I used this one https://www.adobe.com/express/create/logo
+There are many websites for logo.However, I used this one https://www.adobe.com/express/create/logo
 to creat the logo of my page it was usefull and searved the purpose.
 
 
