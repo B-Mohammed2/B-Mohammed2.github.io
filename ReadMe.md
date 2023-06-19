@@ -138,7 +138,7 @@ The following web browsers were used to test the display of the website includin
 | 3        |Display test for all pages on tablet|All web pages should display with no distortion|  All pages displayed correctly | N/A   |
 
 # Bugs and problems encountered
-I had truble with finding images for the 
+I had truble with images for the slide as with sliding the picture size was changing. So I tried to find images with the same size or as close as posible to fit the banner.
 
 
 # Code attribution
