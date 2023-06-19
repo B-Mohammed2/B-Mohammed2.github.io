@@ -16,7 +16,7 @@ I would like to be able to find contact detail to contact them directly.
 
 ### Returning Visitor Goals
 
-1. As a Returning Visitor, I want customers to use the booking function on the website to book for thier requirment.
+1. As a Returning Visitor, I want customers to use the booking function on the website to book for their requirement..
 2. As a Returning Visitor, I want customers to learn  about the new offers and services the business provides.
 3. As a Returning Visitor, I want customers to login to their created account .
 ![](assets/images/screenshots/UE/2.a.png)
@@ -63,11 +63,8 @@ The home page is the landing page that introduces the website and it's services 
 This page contains login form for the members that signed up on the website and allows them to login to their account.
 ### Sign up page
 The sign up page is basic sign up form for none member to complete when they want to register.
-### book page
+### booking page
 The booking page is to send your inquiry and be contacted back with the preferable method.
-
-### book page
-The booking page is to send your enquiry and be contacted back with the preferable methode.
 
 ## Lighthouse Report
 
@@ -148,7 +145,7 @@ I had trouble with images for the slide as with sliding the picture size was cha
 
 # Code attribution
 ## bootstrap library
-This website played a big roll in designing and creating my pages such as navigation bar, slidding banner, form and other details.
+This website played a big roll in designing and creating my pages such as navigation bar, sliding banner, form and other details.
 ## W3school
 This website was a valuable library for me and great support for writing my codes.
 ## Logo maker
