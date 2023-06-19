@@ -26,7 +26,8 @@ I would like to be able to find contact detail to contact them directly.
 
 1. As a Frequent User, I want customers to book consultation for events through the contact form or a phone. 
 2. As a Frequent User, I want customers to make contact with us through the website about any issues or complain, so we can help.
-![](assets/images/screenshots/UE/book1.png)![](assets/images/screenshots/UE/book2.png)
+![](assets/images/screenshots/UE/book1.png)
+![](assets/images/screenshots/UE/book2.png)
 ## Project Title
 Lilies Shop
 
