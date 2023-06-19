@@ -69,16 +69,10 @@ The booking page is to send your inquiry and be contacted back with the preferab
 ## Lighthouse Report
 
 #### Desktop
-![](assets/images/screenshots/lighthouse/desk-home.png)
-![](assets/images/screenshots/lighthouse/desk-login.png)
-![](assets/images/screenshots/lighthouse/desk-signup.png)
-![](assets/images/screenshots/lighthouse/desk-booking.png)
+![](assets/images/screenshots/lighthouse/desktop.jpg)
 
 #### Mobile
-![](assets/images/screenshots/lighthouse/mobile-home.png)
-![](assets/images/screenshots/lighthouse/mobile-login.png)
-![](assets/images/screenshots/lighthouse/mobile-signup.png)
-![](assets/images/screenshots/lighthouse/mobile-booking.png)
+![](assets/images/screenshots/lighthouse/mobil.jpg)
 
 # Testing
 
