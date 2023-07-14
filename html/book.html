@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Bussiness Page: Lilies shop, Book for appointmet page">
-      <!--importing css file from bootstrap-->
+    <!--importing css file from bootstrap-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- Importing from css file -->
     <link href="../assets/css/style.css" rel="stylesheet">
@@ -17,117 +18,144 @@
     <header>
       <!-- this is where navbar starts -->
         <div class="text-center container-fluid ">
-        <nav class="navbar navbar-expand-lg navbar-light bg-white ">
-          <div class="container-fluid ul">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <label class="logo">
-              <img src="../assets/images/lili-logo.png" class="img-logo" alt="logo">
-            </label>
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-              <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
-                <li class="nav-item li-a">
-                  <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
-                </li>
-                <li class="nav-item li-a">
-                  <a class="nav-link" href="book.html"> Book appointment</a>
-                </li>
-                <li class="nav-item li-a">
-                  <a class="nav-link" href="login.html"> Login</a>
-                </li>
-                <li class="nav-item li-a">
-                  <a class="nav-link" href="signup.html"> Sign up</a>
-                </li>
-              </ul>
+
+          <nav class="navbar navbar-expand-lg navbar-light bg-white ">
+
+            <div class="container-fluid ul">
+              
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <label class="logo">
+                <img src="../assets/images/lili-logo.png" class="img-logo" alt="logo">
+              </label>
+
+              <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
+
+                  <li class="nav-item li-a">
+                    <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+                  </li>
+                  <li class="nav-item li-a">
+                    <a class="nav-link" href="book.html"> Book appointment</a>
+                  </li>
+                  <li class="nav-item li-a">
+                    <a class="nav-link" href="login.html"> Login</a>
+                  </li>
+                  <li class="nav-item li-a">
+                    <a class="nav-link" href="signup.html"> Sign up</a>
+                  </li>
+
+                </ul>
+
+              </div>
+              
             </div>
-            
-          </div>
-        
-        </nav>
+          
+          </nav>
         
         </div>
       <!-- This is where navbar ends -->
     </header>
+
     <div> 
       <h1 class="h-main container-fluid"> Nature is Beauty</h1>
     </div> 
+
     <br>
     <br>
+
     <div class="container mt-5">
-        <form method="POST" action="https://formdump.codeinstitute.net/" >
+
+      <form method="POST" action="https://formdump.codeinstitute.net/" >
+
         <div class="container">
+
           <div class="container login-con" >
-                <h2>Book for personal consultation </h3>
-                <small class="text-muted" style="font-size:2vw;">Please fill in this form to be contacted as soon as possible.</small>
-                <br><br>
-                <div class="form-floating mb-3">
-                    <label for="firstName" class="form-label">First Name</label>
-                    <input type="text" class="form-control" id="firstName" required> 
-                </div>
-                <div class="form-floating mb-3">
-                    <label for="lastName" class="form-label">Last Name</label>
-                    <input type="text" class="form-control" id="lastName" required>
-                </div>
-                <div class="form-floating mb-3">
-                    <label for="email" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="email" required>
-                </div>
-                <div class="form-floating mb-3">
-                    <label for="phone" class="form-label">Phone Number</label>
-                    <input type="tel" class="form-control" id="phone" placeholder="+44 12 34-56-78-90" required>
-                </div>
-                <div>
-                    <label for="comments" class="form-label">Please write in brave about your requirements.</label>
-                    <br>
-                    <textarea class="form-control form-floating mb-3" name="comments" id="comments" cols="20" rows="3"></textarea>
-                </div>
-                <div >
-                    <label for="dataList" class="form-label">Preferable contact method.</label>
-                    <input class="form-control" list="datalistOptions" id="dataList" placeholder="Chose preferable contact method">
-                    <datalist id="datalistOptions">
-                    <option value="Email">
-                    <option value="Phone call">
-                    </datalist>
-                </div>
 
+            <h2>Book for personal consultation </h3>
+            <small class="text-muted" style="font-size:2vw;">Please fill in this form to be contacted as soon as possible.</small>
+            
+            <br><br>
 
-                <div class="col-md-12">
-                    <button type="submit" class="btn btn-success">Submit</button>
-                </div>
-        
-             </div>
+            <div class="form-floating mb-3">
+              <label for="firstName" class="form-label">First Name</label>
+              <input type="text" class="form-control" id="firstName" required> 
+            </div>
+
+            <div class="form-floating mb-3">
+              <label for="lastName" class="form-label">Last Name</label>
+              <input type="text" class="form-control" id="lastName" required>
+            </div>
+
+            <div class="form-floating mb-3">
+              <label for="email" class="form-label">Email address</label>
+             <input type="email" class="form-control" id="email" required>
+            </div>
+
+            <div class="form-floating mb-3">
+              <label for="phone" class="form-label">Phone Number</label>
+              <input type="tel" class="form-control" id="phone" placeholder="+44 12 34-56-78-90" required>
+            </div>
+
+            <div>
+              <label for="comments" class="form-label">Please write in brave about your requirements.</label>
+              <br>
+              <textarea class="form-control form-floating mb-3" name="comments" id="comments" cols="20" rows="3"></textarea>
+            </div>
+
+            <div >
+              <label for="dataList" class="form-label">Preferable contact method.</label>
+              <input class="form-control" list="datalistOptions" id="dataList" placeholder="Chose preferable contact method">
+              <datalist id="datalistOptions">
+              <option value="Email">
+              <option value="Phone call">
+              </datalist>
+            </div>
+
+            <div class="col-md-12">
+              <button type="submit" class="btn btn-success">Submit</button>
+            </div>
+    
+          </div>
+
         </div>
-        </form>
+
+      </form>
+
       <br>
     </div>
+
     <br>
 
     <footer>
+
       <div class="wrapper">
-        <div >
+
+        <div>
+
           <p> <strong>Get in touch:</strong></p>
-        
-          <p>Email:<a href="mailto:email@gmail.com" class="uline">
-          email@gmail.com</a></p>
+          <p>Email:<a href="mailto:email@gmail.com" class="uline">email@gmail.com</a></p>
           <p>Contact us on: <a href="tel:004422233345" class="uline">004422233345</a></p>
-        
+      
         </div>
         
         <div>
+
           <p>Follow us on social media for offers and newest updates:</p>
           <a href="https://www.facebook.com" target="_blank"><img src="../assets/images/facebook.svg" class="icon" alt="faceook-logo"></a>
           <a href="https://www.instagram.com" target="_blank"><img src="../assets/images/instagram.svg" class="icon" alt="instagram-logo"></a>
           <a href="https://www.youtube.com" target="_blank"><img src="../assets/images/square-youtube.svg" class="icon" alt="youtube-logo"></a>
+
         </div>
 
       </div>
      
-
-  
     </footer>
       <!-- Importing from bootstrab java -->
-          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   </body>
 </html>
 
