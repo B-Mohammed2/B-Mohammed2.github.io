@@ -1,7 +1,15 @@
-<!-- Introduction the purpose and the value to users and dyployment -->
+# Content
+- [Introduction](#Introduction)
+- [Testing](#Testing)
 
+
+
+## Live link to the project
+https://b-mohammed2.github.io/
+<!-- Introduction the purpose and the value to users and dyployment -->
 # Introduction 
 This is a simple business website for flower shop, It allows you to search for the shops services and order requirement for events special days or loved one's via any of the contact detail provided.
+
 <!-- users stories -->
 ## User stories
 ### First Time Visitor Goals
@@ -176,8 +184,7 @@ https://seodesignchicago.com/web-design-blog/the-5-steps-of-website-deployment/
 ## Link to the repository
 https://github.com/B-Mohammed2/B-Mohammed2.github.io
 
-## Live link to the project
-https://b-mohammed2.github.io/
+
 
 
 
