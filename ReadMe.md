@@ -1,4 +1,4 @@
-# Assigntment 1 
+# bootstrap Project
 Lilies Shop website
 ## Live link to the project
 https://b-mohammed2.github.io/
